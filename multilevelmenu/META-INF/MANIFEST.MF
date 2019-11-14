@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: multilevelmenu
+Bundle-Name: multilevelmenu
+Bundle-Version: 1.0.0
+Package-Type: Web-Component
+
+Name: multilevelmenu/multilevelmenu.spec
+Web-Component: True
+

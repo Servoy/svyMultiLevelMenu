@@ -1,0 +1,12 @@
+{
+    "name": "svymultilevelmenu",
+    "displayName": "Multi level menu",
+    "packageType": "Web-Component",
+    "icon": "https://raw.githubusercontent.com/Servoy/svyMultiLevelMenu/master/icon.png",
+    "description": "A n-level menu component for larger screens",
+    "wikiUrl": "https://github.com/Servoy/svyMultiLevelMenu/wiki",
+    "sourceUrl": "https://github.com/Servoy/svyMultiLevelMenu",
+    "releases": [
+    	{"version": "1.0.0","url": "https://github.com/Servoy/svyMultiLevelMenu/releases/download/1.0.0/svymultilevelmenu.zip","servoy-version":"8.1.3"}
+      ]
+}
