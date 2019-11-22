@@ -5,6 +5,8 @@
 	<projects>
 		<project>resources</project>
 		<project>multilevelmenu</project>
+		<project>servoy-extra-components</project>
+		<project>webutils</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

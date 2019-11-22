@@ -6,21 +6,14 @@ items:[
 cssPosition:"50,0,0,0,-1,100",
 items:[
 {
-containsFormID:"3C7563FD-1A9C-4DEA-8B39-38A39C8EB645",
+containsFormID:"43C889AE-99FD-402B-977E-6F51C1EA4507",
 location:"70,229",
 text:"orders",
 typeid:15,
 uuid:"9FCBD2BA-7E6E-4348-9552-F1D2A6803CF9"
-},
-{
-containsFormID:"3C7563FD-1A9C-4DEA-8B39-38A39C8EB645",
-location:"150,229",
-text:"Orders B",
-typeid:15,
-uuid:"D94D9673-AE08-4082-A001-FC0F65FB9580"
 }
 ],
-name:"tab_orders",
+name:"tab",
 printable:false,
 transparent:true,
 typeid:16,

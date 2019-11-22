@@ -13,7 +13,7 @@ function onLoad(event) {
 		text: 'Order F',
 		enabled: false
 	}
-	
+
 	var OM5 = {
 		itemId: 'OrderE',
 		text: 'Order E',
@@ -52,7 +52,7 @@ function onLoad(event) {
 
 	/** @type {CustomType<multilevelmenu-multilevelmenu.MenuItem>} */
 	var OM = {
-		itemId: 'Orders',
+		itemId: 'orders',
 		text: 'Orders',
 		enabled: true,
 		menuItems: [OM1, OM2, OM2, OM1, OM2]
@@ -94,5 +94,9 @@ function onLoad(event) {
  */
 function onMenuItemSelected(menuItemId, event) {
 	application.output('Selected: ' + menuItemId)
+	if (menuItemId == 'customers' || menuItemId == 'orders') {
+		elements.tab.removeAllTabs();
+		elements.tab.addTab(menuItemId);
+	}
 	return false;
 }

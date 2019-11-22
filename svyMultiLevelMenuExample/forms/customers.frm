@@ -1,6 +1,6 @@
 customProperties:"formComponent:false,\
 useCssPosition:true",
-dataSource:"db:/example_data/orders",
+dataSource:"db:/example_data/customers",
 encapsulation:44,
 items:[
 {
@@ -8,13 +8,13 @@ cssPosition:"0,0,0,0,-1,-1",
 json:{
 columns:[
 {
-dataprovider:"orderid",
+dataprovider:"customerid",
 headerText:"ID",
 svyUUID:"8B96F594-FD06-4EED-A064-91472A56B066"
 },
 {
-dataprovider:"orderdate",
-headerText:"Order Date",
+dataprovider:"companyname",
+headerText:"Company",
 svyUUID:"F58BB0D8-1005-49A9-9A47-0705879E12B2"
 }
 ],
@@ -30,17 +30,17 @@ width:"-1"
 name:"table_1",
 typeName:"servoyextra-table",
 typeid:47,
-uuid:"B70DBF3D-08C5-4B88-816C-D910A711C973"
+uuid:"79EF2C12-6206-432B-9CAF-364923FB9F5E"
 },
 {
 height:480,
 partType:5,
 typeid:19,
-uuid:"CA67E044-E885-4DD8-A767-02F5AC2D6D89"
+uuid:"F8D6B14D-7BB1-41FF-B8AF-0EEB8F1B942B"
 }
 ],
-name:"orders",
+name:"customers",
 navigatorID:"-1",
 showInMenu:true,
 typeid:3,
-uuid:"43C889AE-99FD-402B-977E-6F51C1EA4507"
+uuid:"DCD3F08C-7888-4B9F-AAC5-1D9FBE929CD9"
