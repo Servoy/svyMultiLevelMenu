@@ -7,6 +7,6 @@
     "wikiUrl": "https://github.com/Servoy/svyMultiLevelMenu/wiki",
     "sourceUrl": "https://github.com/Servoy/svyMultiLevelMenu",
     "releases": [
-    	{"version": "1.0.0","url": "https://github.com/Servoy/svyMultiLevelMenu/releases/download/1.0.0/svymultilevelmenu.zip","servoy-version":"8.1.3"}
+    	{"version": "1.0.0","url": "https://github.com/Servoy/svyMultiLevelMenu/releases/download/v1.0.0/multilevelmenu.zip","servoy-version":"8.1.3"}
       ]
 }
