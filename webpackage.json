@@ -3,7 +3,7 @@
     "displayName": "Multi level menu",
     "packageType": "Web-Component",
     "icon": "https://raw.githubusercontent.com/Servoy/svyMultiLevelMenu/master/icon.png",
-    "description": "A n-level menu component for larger screens",
+    "description": "A n-level menu component for desktop interfaces",
     "wikiUrl": "https://github.com/Servoy/svyMultiLevelMenu/wiki",
     "sourceUrl": "https://github.com/Servoy/svyMultiLevelMenu",
     "releases": [
